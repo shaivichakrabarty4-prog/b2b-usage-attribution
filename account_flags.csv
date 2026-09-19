@@ -1,0 +1,36 @@
+account_id,account_name,plan_tier,arr_usd,renewal_date,calls_recent_30d,calls_prior_30d,plan_utilisation,usage_trend,overage_days_30d,seat_activation,error_rate_pct,account_flag,flag_reason,owner
+8,Account 008,Enterprise,321023.0,2026-11-05,305736,316626,0.306,-0.034,0,0.84,1.5,churn_risk,Low plan utilisation,M. Chen
+41,Account 041,Growth,79771.0,2026-10-23,81762,79557,0.327,0.028,0,0.84,1.39,churn_risk,Low plan utilisation,J. Lindqvist
+15,Account 015,Growth,74506.0,2026-10-16,54727,56295,0.219,-0.028,0,0.84,1.63,churn_risk,Low plan utilisation,P. Mehta
+3,Account 003,Growth,58722.0,2026-12-02,131580,235317,0.526,-0.441,0,0.79,1.71,churn_risk,Sharp usage decline,S. Okafor
+36,Account 036,Growth,53309.0,2027-05-24,78831,84307,0.315,-0.065,0,0.82,1.27,churn_risk,Low plan utilisation,J. Lindqvist
+53,Account 053,Growth,50645.0,2026-09-02,137294,245854,0.549,-0.442,0,0.84,1.57,churn_risk,Sharp usage decline,S. Okafor
+42,Account 042,Growth,50433.0,2026-12-01,55744,55773,0.223,-0.001,0,0.82,1.28,churn_risk,Low plan utilisation,M. Chen
+69,Account 069,Growth,50416.0,2027-04-14,63564,67021,0.254,-0.052,0,0.81,1.42,churn_risk,Low plan utilisation,A. Rao
+6,Account 006,Growth,50034.0,2027-04-09,134030,284507,0.536,-0.529,0,0.83,1.49,churn_risk,Sharp usage decline,S. Okafor
+52,Account 052,Starter,29207.0,2026-08-23,26596,44776,0.532,-0.406,0,0.77,1.5,churn_risk,Sharp usage decline,M. Chen
+59,Account 059,Starter,23434.0,2027-04-12,9015,9014,0.18,0.0,0,0.79,1.32,churn_risk,Low plan utilisation,M. Chen
+37,Account 037,Starter,19266.0,2026-09-04,30099,52101,0.602,-0.422,0,0.8,1.54,churn_risk,Sharp usage decline,S. Okafor
+7,Account 007,Enterprise,338212.0,2027-02-03,1116759,956566,1.117,0.167,19,0.84,1.37,upsell,At or above entitlement,S. Okafor
+65,Account 065,Enterprise,192064.0,2026-10-31,1103344,986395,1.103,0.119,19,0.76,1.73,upsell,At or above entitlement,J. Lindqvist
+58,Account 058,Enterprise,159126.0,2026-09-01,1137715,896892,1.138,0.269,21,0.84,1.66,upsell,At or above entitlement,A. Rao
+55,Account 055,Growth,66396.0,2026-12-01,262560,231278,1.05,0.135,16,0.83,1.25,upsell,At or above entitlement,P. Mehta
+60,Account 060,Growth,64196.0,2027-02-06,243788,214959,0.975,0.134,14,0.83,1.7,upsell,At or above entitlement,A. Rao
+67,Account 067,Growth,56448.0,2027-03-08,280938,218920,1.124,0.283,22,0.85,1.23,upsell,At or above entitlement,S. Okafor
+31,Account 031,Starter,22750.0,2026-09-09,45016,42287,0.9,0.065,11,0.79,1.68,upsell,At or above entitlement,S. Okafor
+4,Account 004,Starter,21860.0,2027-03-23,45363,39357,0.907,0.153,11,0.8,1.52,upsell,At or above entitlement,M. Chen
+72,Account 072,Starter,12586.0,2026-11-28,53706,45428,1.074,0.182,16,0.83,1.65,upsell,At or above entitlement,P. Mehta
+38,Account 038,Enterprise,473845.0,2026-12-10,680932,601065,0.681,0.133,0,0.84,1.78,healthy,Within expected band,J. Lindqvist
+20,Account 020,Enterprise,163639.0,2027-05-27,571676,538989,0.572,0.061,0,0.83,1.51,healthy,Within expected band,P. Mehta
+47,Account 047,Growth,118679.0,2027-03-19,146792,125766,0.587,0.167,0,0.85,1.34,healthy,Within expected band,P. Mehta
+9,Account 009,Growth,106647.0,2027-02-25,165651,153751,0.663,0.077,0,0.79,1.54,healthy,Within expected band,J. Lindqvist
+70,Account 070,Growth,100121.0,2026-07-29,134092,146692,0.536,-0.086,0,0.83,1.38,healthy,Within expected band,S. Okafor
+51,Account 051,Growth,97795.0,2026-11-05,125773,116786,0.503,0.077,0,0.8,1.37,healthy,Within expected band,S. Okafor
+12,Account 012,Growth,88619.0,2026-11-21,181624,185517,0.726,-0.021,0,0.84,1.36,healthy,Within expected band,A. Rao
+26,Account 026,Growth,70504.0,2027-02-10,161205,161082,0.645,0.001,0,0.83,1.6,healthy,Within expected band,M. Chen
+56,Account 056,Growth,66396.0,2027-06-01,151005,142065,0.604,0.063,0,0.81,1.57,healthy,Within expected band,A. Rao
+10,Account 010,Starter,22561.0,2026-09-27,27921,25073,0.558,0.114,0,0.67,1.36,healthy,Within expected band,M. Chen
+13,Account 013,Starter,21767.0,2027-04-17,35037,31580,0.701,0.109,0,0.75,1.38,healthy,Within expected band,S. Okafor
+28,Account 028,Starter,19625.0,2027-04-23,25113,22551,0.502,0.114,0,0.8,1.37,healthy,Within expected band,S. Okafor
+54,Account 054,Starter,19255.0,2026-12-06,34909,35247,0.698,-0.01,0,0.71,1.35,healthy,Within expected band,S. Okafor
+5,Account 005,Starter,15293.0,2026-09-21,36344,32685,0.727,0.112,0,0.78,1.38,healthy,Within expected band,S. Okafor

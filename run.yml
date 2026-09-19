@@ -1,0 +1,26 @@
+name: Run pipeline
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Build dataset
+        run: python src/generate_data.py
+      - name: Run attribution pipeline
+        run: python src/pipeline.py
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: attribution-results
+          path: results/
